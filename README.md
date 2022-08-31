@@ -17,3 +17,11 @@ bctl +<integer>
 # Decrease the brightness level.
 bctl -<integer>
 ```
+
+# Building
+
+Just build the project with:
+
+```bash
+cc main.c -o bctl
+```
