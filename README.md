@@ -1,0 +1,2 @@
+# bctl
+Display backlight control.
